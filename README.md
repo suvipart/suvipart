@@ -3,7 +3,7 @@
 About me: 
 
 - 🔭 I have been working over two years as Backend Developer for Human Capital Management cloud solution in Finland with mainly Scala, SQL, AWS, Docker, Scrum, Git, Kibana and Jenkins.
-- 🌱 I’m currently learning again TypeScript and Node js, and was thinking to get familiar with Java or Python. Really love to learn new tech!
+- 🌱 I’m currently learning again TypeScript and Node js, next Java or Python. Really love to learn new tech!
 - ⚡ Fun fact: I passed AW Academy bootcamp in JavaScript class in 2020 where I studied JavaScript, TypeScript, React, Angular, Vue, Node js, SQL, MongoDB, AWS and lots of more. I also passed Full Stack Open MOOC 2020 at Helsinki University and Scrum Master Certificate.
 - 📫 How to reach me: www.linkedin.com/in/suvi-partanen
 
